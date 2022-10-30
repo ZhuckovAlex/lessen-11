@@ -1,0 +1,14 @@
+{
+  "type": "lessen:concrete_gray",
+  "config": {
+    "top_material": {
+      "Name": "minecraft:gray_concrete_powder"
+    },
+    "under_material": {
+      "Name": "minecraft:clay"
+    },
+    "underwater_material": {
+      "Name": "minecraft:clay"
+    }
+  }
+}
